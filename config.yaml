@@ -1,0 +1,8 @@
+
+exchange_rates_input_filename: 'exchangeRates_ccy_xrt_DKK.xml'
+exchange_rates_generated_filename: 'file_DKK.xml'
+exchange_rates_reporting_currency: 'DKK'
+
+
+transaction_input_filename: '7566247-Germany-2021-01-01-2021-12-31-configId-2 (16).xml'
+transaction_generated_filename: 'trx.xml'
